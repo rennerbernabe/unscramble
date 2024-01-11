@@ -15,7 +15,6 @@ val allWords: Set<String> =
         "balloon",
         "basket",
         "bench",
-        // ...
         "zoology",
         "zone",
         "zeal"
